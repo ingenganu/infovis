@@ -1,4 +1,5 @@
 # infovis
 repo prácticas Visualización de la Información ITBA
 
-<iframe width="1000" height="800" src="https://public.tableau.com/views/MakeOverMonday2019week47/Dashboard1?:showVizHome=no&:embed=true" ></iframe>
+<iframe src="https://public.tableau.com/views/MakeOverMonday2019week47/Dashboard1?:showVizHome=no&:embed=true"
+ width="645" height="955"></iframe>
