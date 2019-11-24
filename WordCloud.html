@@ -4,8 +4,27 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Nube de Palabras Wordle</title>
+  
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox {
+            display: grid;
+            height: 100%;
+        }
+        .center-fit {
+            max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+        }
+    </style>
+ 
 </head>
 <body>
-  <img src="wordle.png" alt="Me baje la app de http://www.wordle.net/" width="1152" height="648">
+  <div class="imgbox">
+    <img class="center-fit" src="wordle.png" alt="Me baje la app de http://www.wordle.net/">
+  </div>
 </body>
 </html>
